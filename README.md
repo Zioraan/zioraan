@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Castanier</h1>
 <h3 align="center">A passionate fullstack developer from Michigan</h3>
+<img align="right" width="400" src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif">
 
 - 🔭 I’m currently working on **Star Wars Blog**
 
