@@ -21,7 +21,7 @@
 <br/>
 <hr/>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🎈  Connect with me:  🎈</h3>
 <p align="center">
 <a href="mailto:ryancastanier@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">💻  Languages and Tools:  💻</h3>
 <br/>
 <div align="center"> 
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> 
